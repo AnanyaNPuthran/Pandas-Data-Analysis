@@ -1,12 +1,12 @@
 # Python Pandas – Data Analysis Project
 
-## 📌 About the Project
+##  About the Project
 
 This project focuses on learning and practicing **Python Pandas** for data analysis and manipulation. It covers essential Pandas functions with practical examples using a sample dataset.
 
 The project is organized into separate sections to make learning, understanding, and executing the code easier.
 
-## 🎯 Topics Covered
+##  Topics Covered
 
 ### Part 4: Selecting and Filtering Data
 - Selecting single and multiple columns
@@ -117,7 +117,7 @@ Pandas-Data-Analysis/
 5. Execute each part separately from Part 4 to Part 12.
 6. Observe and understand the outputs.
 
-## 📊 Dataset
+##  Dataset
 
 This project uses a sample dataset created using Pandas DataFrame.
 
@@ -133,7 +133,7 @@ The dataset contains information such as:
 - Email
 - Score
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I practiced:
 
@@ -147,7 +147,7 @@ Through this project, I practiced:
 - String manipulation
 - Statistical analysis
 
-## 👩‍💻 Author
+##  Author
 
 **Python Pandas – Practical Learning Project**
 

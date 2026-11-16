@@ -91,7 +91,7 @@ The project is organized into separate sections to make learning, understanding,
 - `cumsum()` and `cumprod()`
 - `pct_change()` and `diff()`
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -99,7 +99,7 @@ The project is organized into separate sections to make learning, understanding,
 - Google Colab
 - Jupyter Notebook
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Pandas-Data-Analysis/
@@ -108,7 +108,7 @@ Pandas-Data-Analysis/
 └── README.md
 ```
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 1. Clone or download this repository.
 2. Open the `.ipynb` notebook file.
@@ -155,4 +155,4 @@ This project is created for learning and practicing Python Pandas and developing
 
 ---
 
-⭐ If you find this project useful, feel free to explore and learn from it!
+ If you find this project useful, feel free to explore and learn from it!
